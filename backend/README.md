@@ -16,9 +16,7 @@
 
    After installation, verify:
    ```bash
-   cd backend
-   uv venv --python 3.12.10
-   source .venv/bin/activate
+   uv --version
    ```
 
 
